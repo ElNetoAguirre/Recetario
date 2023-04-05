@@ -9,11 +9,17 @@ Es un proyecto de consola, el cual dá la bienvenida al usuario, le informa la r
 Posteriormente solicita elegir una de las siguientes opciones:
 
 1.- Leer Receta.
+
 2.- Crear Receta nueva.
+
 3.- Crear Categoría nueva.
+
 4.- Eiminar Receta.
+
 5.- Eliminar Categoría.
+
 6.- Salir del programa.
+
 
 Para éste caso la carpeta donde se alojan las recetas se llama 'Recetas' y se coloca en el mismo directorio donde estará el archivo 'Mis-Recetas.py'.
 
